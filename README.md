@@ -1,1 +1,1 @@
-# typescript
+# Typescript/ES6
